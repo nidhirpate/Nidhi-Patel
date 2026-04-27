@@ -370,28 +370,28 @@
             "dots_vertical": 50
           }
         },
-        "wild_photo_nLY8yy": {
-          "type": "wild_photo",
-          "settings": {
-            "product": "",
-            "dots_horizon": 50,
-            "dots_vertical": 50
-          }
-        },
         "wild_photo_JjMxYP": {
           "type": "wild_photo",
           "settings": {
-            "product": "",
+            "product": "classic-leather-jacket",
+            "dots_horizon": 72,
+            "dots_vertical": 20
+          }
+        },
+        "wild_photo_nLY8yy": {
+          "type": "wild_photo",
+          "settings": {
+            "product": "classic-varsity-top",
             "dots_horizon": 50,
-            "dots_vertical": 50
+            "dots_vertical": 23
           }
         },
         "wild_photo_fE63yF": {
           "type": "wild_photo",
           "settings": {
-            "product": "",
-            "dots_horizon": 50,
-            "dots_vertical": 50
+            "product": "dark-denim-top",
+            "dots_horizon": 78,
+            "dots_vertical": 41
           }
         }
       },
@@ -399,8 +399,8 @@
         "wild_photo_7w7LxC",
         "wild_photo_r7Dmfh",
         "wild_photo_xhGHxW",
-        "wild_photo_nLY8yy",
         "wild_photo_JjMxYP",
+        "wild_photo_nLY8yy",
         "wild_photo_fE63yF"
       ],
       "name": "Product Grid",
