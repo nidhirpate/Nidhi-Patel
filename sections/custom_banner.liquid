@@ -476,7 +476,8 @@ vertical-align: middle;
       {%- when 'marquee_bar' -%}
         {%- if block.settings.text != blank -%}
             <div class="gg-marquee"   style="background:{{ block.settings.bg_color }};">
-                    <span style="color:{{ block.settings.text_color }};">{{ block.settings.text }}</span>
+                    <span style="color:{{ block.settings.text_color }};" class="hidden-desktop">{{ block.settings.text }}</span>
+                     <span style="color:{{ block.settings.text_color }};" class="hidden-mobile">{{ block.settings.text_desktop }}</span>
             </div>
         {%- endif -%}
 
@@ -707,6 +708,12 @@ vertical-align: middle;
       "name": "Marquee Bar",
       "limit": 1,
       "settings": [
+        {
+          "type": "text",
+          "id": "text_desktop",
+          "label": "Marquee items[desktop]",
+          "default": "SUSTAINABLE, ETHICALLY MADE CLOTHES IN SIZES XXS TO 6XL",
+        },
         {
           "type": "text",
           "id": "text",
