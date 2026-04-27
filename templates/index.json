@@ -306,13 +306,16 @@
         },
         "banner_QGhbEz": {
           "type": "banner",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/Frame_1.png"
+          }
         },
         "banner_with_text_FdNCRq": {
           "type": "banner_with_text",
           "settings": {
-            "image_position": "left",
-            "eyebrow": "Holiday Collection",
+            "image": "shopify://shop_images/Frame.png",
+            "image_position": "right",
+            "eyebrow": "",
             "heading": "The Gift Guide",
             "body": "Discover Joy: Your Ultimate Holiday Gift Destination. Explore our curated selection and find the perfect gifts to delight your loved ones this holiday season.",
             "body_mobile": "Discover Joy: Your Ultimate Holiday Gift Destination.",
