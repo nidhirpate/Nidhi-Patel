@@ -286,16 +286,15 @@
         "padding-block-end": 48
       }
     },
-    "custom_banner_NwEjCM": {
+    "custom_banner_fiptLT": {
       "type": "custom_banner",
       "blocks": {
-        "navigation_bar_QHeU6J": {
+        "navigation_bar_HVAQme": {
           "type": "navigation_bar",
           "settings": {
             "show_nav": true,
             "nav_bg": "#ffffff",
             "nav_text_color": "#0d0d0d",
-            "brand_logo": "",
             "logo_width": "md",
             "tagline": "Find the ideal gift for your loved ones.",
             "cta_label": "CHOOSE GIFT",
@@ -304,25 +303,24 @@
             "cta_color": "#0d0d0d"
           }
         },
-        "banner_qxG7Uw": {
+        "banner_QGhbEz": {
           "type": "banner",
           "settings": {}
         },
-        "banner_with_text_wdKVT7": {
+        "banner_with_text_FdNCRq": {
           "type": "banner_with_text",
           "settings": {
             "image_position": "left",
             "eyebrow": "Holiday Collection",
             "heading": "The Gift Guide",
             "body": "Discover Joy: Your Ultimate Holiday Gift Destination. Explore our curated selection and find the perfect gifts to delight your loved ones this holiday season.",
-            "body_mobile": "Discover Joy: Your Ultimate Holiday Gift Destination.",
             "cta_label": "SHOP NOW",
             "cta_url": "",
             "btn_bg": "#0d0d0d",
             "btn_color": "#ffffff"
           }
         },
-        "marquee_bar_3iin8j": {
+        "marquee_bar_4pC8VN": {
           "type": "marquee_bar",
           "settings": {
             "text": "SUSTAINABLE, ETHICALLY MADE ACTIVEWEAR",
@@ -332,18 +330,42 @@
         }
       },
       "block_order": [
-        "navigation_bar_QHeU6J",
-        "banner_qxG7Uw",
-        "banner_with_text_wdKVT7",
-        "marquee_bar_3iin8j"
+        "navigation_bar_HVAQme",
+        "banner_QGhbEz",
+        "banner_with_text_FdNCRq",
+        "marquee_bar_4pC8VN"
       ],
       "name": "Gift Guide Hero",
       "settings": {}
     },
-    "custom_grid_RGXMid": {
+    "custom_grid_z8WLRU": {
       "type": "custom_grid",
       "blocks": {
-        "wild_photo_a4cVPE": {
+        "wild_photo_7w7LxC": {
+          "type": "wild_photo",
+          "settings": {
+            "product": "black-leather-bag",
+            "dots_horizon": 50,
+            "dots_vertical": 50
+          }
+        },
+        "wild_photo_r7Dmfh": {
+          "type": "wild_photo",
+          "settings": {
+            "product": "blue-silk-tuxedo",
+            "dots_horizon": 50,
+            "dots_vertical": 50
+          }
+        },
+        "wild_photo_xhGHxW": {
+          "type": "wild_photo",
+          "settings": {
+            "product": "chequered-red-shirt",
+            "dots_horizon": 50,
+            "dots_vertical": 50
+          }
+        },
+        "wild_photo_nLY8yy": {
           "type": "wild_photo",
           "settings": {
             "product": "",
@@ -351,7 +373,7 @@
             "dots_vertical": 50
           }
         },
-        "wild_photo_qXrrYy": {
+        "wild_photo_JjMxYP": {
           "type": "wild_photo",
           "settings": {
             "product": "",
@@ -359,31 +381,7 @@
             "dots_vertical": 50
           }
         },
-        "wild_photo_UKDtfT": {
-          "type": "wild_photo",
-          "settings": {
-            "product": "",
-            "dots_horizon": 50,
-            "dots_vertical": 50
-          }
-        },
-        "wild_photo_3CfcTy": {
-          "type": "wild_photo",
-          "settings": {
-            "product": "",
-            "dots_horizon": 50,
-            "dots_vertical": 50
-          }
-        },
-        "wild_photo_pxfrYk": {
-          "type": "wild_photo",
-          "settings": {
-            "product": "",
-            "dots_horizon": 50,
-            "dots_vertical": 50
-          }
-        },
-        "wild_photo_A3rrNj": {
+        "wild_photo_fE63yF": {
           "type": "wild_photo",
           "settings": {
             "product": "",
@@ -393,12 +391,12 @@
         }
       },
       "block_order": [
-        "wild_photo_a4cVPE",
-        "wild_photo_qXrrYy",
-        "wild_photo_UKDtfT",
-        "wild_photo_3CfcTy",
-        "wild_photo_pxfrYk",
-        "wild_photo_A3rrNj"
+        "wild_photo_7w7LxC",
+        "wild_photo_r7Dmfh",
+        "wild_photo_xhGHxW",
+        "wild_photo_nLY8yy",
+        "wild_photo_JjMxYP",
+        "wild_photo_fE63yF"
       ],
       "name": "Product Grid",
       "settings": {
@@ -411,7 +409,7 @@
   "order": [
     "hero_jVaWmY",
     "product_list_fa6P9H",
-    "custom_banner_NwEjCM",
-    "custom_grid_RGXMid"
+    "custom_banner_fiptLT",
+    "custom_grid_z8WLRU"
   ]
 }
